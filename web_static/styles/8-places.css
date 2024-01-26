@@ -2,7 +2,6 @@
 /* CSS Document */
 .places{
 	font-size:30px;
-	align: center;
 	display: flex;
 	flex-flow: row wrap;
 }
@@ -41,7 +40,6 @@ article h2{
 	height: 60px ;
 	font-size: 30px;
 	text-align: center;
-	display:;
 	position: relative;
 	margin-left: 20px;
 }
